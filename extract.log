@@ -1,0 +1,262 @@
+INFO 2023-02-27 20:52:50,176 Just checking weather the logging code is working or not root
+INFO 2023-02-27 21:01:42,383 Just checking weather the logging code is working or not root
+INFO 2023-02-27 21:02:41,651 Just checking weather the logging code is working or not root
+INFO 2023-02-27 21:02:57,707 Just checking weather the logging code is working or not root
+INFO 2023-02-27 21:03:12,934 Just checking weather the logging code is working or not root
+INFO 2023-02-27 21:04:05,179 Just checking weather the logging code is working or not root
+INFO 2023-02-27 21:04:43,188 Just checking weather the logging code is working or not root
+INFO 2023-02-27 21:05:09,529 Just checking weather the logging code is working or not root
+INFO 2023-02-27 21:05:09,534 Now we are extracting the values from the dictionary root
+INFO 2023-02-27 21:05:44,878 Just checking weather the logging code is working or not root
+INFO 2023-02-27 21:05:44,878 Now we are extracting the values from the dictionary root
+INFO 2023-02-27 21:11:38,945 Just checking weather the logging code is working or not root
+INFO 2023-02-27 21:12:01,522 Just checking weather the logging code is working or not root
+INFO 2023-02-27 21:12:01,522 Now we are trying to extract the values from the dictionary root
+INFO 2023-02-27 21:13:23,265 Just checking weather the logging code is working or not root
+INFO 2023-02-27 21:13:23,265 Now we are trying to extract the values from the dictionary root
+INFO 2023-02-27 21:15:21,137 Just checking weather the logging code is working or not root
+INFO 2023-02-27 21:15:21,137 extracting values from the dictionary root
+INFO 2023-02-27 21:15:21,137 keys --> [dict_values(['sudh', [23, 45, 656]])] root
+INFO 2023-02-27 21:15:32,465 Just checking weather the logging code is working or not root
+INFO 2023-02-27 21:15:32,465 extracting values from the dictionary root
+INFO 2023-02-27 21:15:32,465 keys --> [dict_values(['sudh', [23, 45, 656]])] root
+INFO 2023-02-27 21:20:02,021 Just checking weather the logging code is working or not root
+INFO 2023-02-27 21:20:02,021 extracting values from the dictionary root
+INFO 2023-02-27 21:20:58,965 Just checking weather the logging code is working or not root
+INFO 2023-02-27 21:20:58,965 extracting values from the dictionary root
+INFO 2023-02-27 21:20:58,965 keys --> [dict_values(['sudh', [23, 45, 656]])] root
+INFO 2023-02-27 21:22:27,723 Just checking weather the logging code is working or not root
+INFO 2023-02-27 21:22:27,723 extracting values from the dictionary root
+INFO 2023-02-27 21:22:27,723 keys --> [dict_values(['sudh', [23, 45, 656]])] root
+INFO 2023-02-27 21:30:06,685 Just checking weather the logging code is working or not root
+INFO 2023-02-27 21:30:06,685 extracting values from the dictionary root
+INFO 2023-02-27 21:30:06,685 The keys from the dictionary are [dict_values(['sudh', [23, 45, 656]])] root
+INFO 2023-02-27 22:05:48,528 Just checking weather the logging code is working or not root
+INFO 2023-02-27 22:05:48,528 Now we are entering the function which extracts the values from the dictionar root
+INFO 2023-02-27 22:05:48,528 The extracted dictionary values are [dict_values(['sudh', [23, 45, 656]])] root
+INFO 2023-02-27 22:06:36,935 Just checking weather the logging code is working or not root
+INFO 2023-02-27 22:07:05,041 Just checking weather the logging code is working or not root
+INFO 2023-02-27 22:07:05,041 Now we are entering the function which extracts the values from the dictionar root
+INFO 2023-02-27 22:07:05,041 The extracted dictionary values are [dict_values(['sudh', [23, 45, 656]])] root
+INFO 2023-02-27 23:17:13,536 Just checking weather the logging code is working or not root
+INFO 2023-02-27 23:17:13,536 Now we have entered into the function which extracts the keys from dic in list root
+INFO 2023-02-27 23:17:13,536 The data which is passed is [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}] root
+INFO 2023-02-27 23:17:13,536 The keys which are present in the list is [dict_keys(['key1', 234])] root
+INFO 2023-02-27 23:24:13,380 Just checking weather the logging code is working or not root
+INFO 2023-02-27 23:24:13,380 Now we have entered into the function which extract the list from the given data root
+INFO 2023-02-27 23:24:13,380 The data which is passed by the user is [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}] root
+INFO 2023-02-27 23:24:13,381 The extracted list are [[23, 456, 67, 8, 78, 78]] root
+INFO 2023-02-27 23:24:13,381 The extracted list are [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]] root
+INFO 2023-02-27 23:34:33,011 Just checking weather the logging code is working or not root
+INFO 2023-02-27 23:34:33,012 Now we have entered into the function which exctracts the dict from the given data root
+INFO 2023-02-27 23:34:33,012 The data which is entered by the user is [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}] root
+INFO 2023-02-27 23:34:33,012 The dictionary data which is extracted is {'key1': 'sudh', 234: [23, 45, 656]} root
+INFO 2023-02-27 23:42:13,718 Just checking weather the logging code is working or not root
+INFO 2023-02-27 23:42:13,718 Now we have entered into the function which extracts the tuple from the given data root
+INFO 2023-02-27 23:42:13,718 The data which is passed by the user is [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}] root
+INFO 2023-02-27 23:42:13,718 The extracted tuple data from the list is (234, 6657, 6) root
+INFO 2023-02-27 23:44:23,972 Just checking weather the logging code is working or not root
+INFO 2023-02-27 23:44:23,972 Now we have entered into the function which extract the list from the given data root
+INFO 2023-02-27 23:44:23,972 The data which is passed by the user is [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}] root
+INFO 2023-02-27 23:44:23,973 The extracted list are [[23, 456, 67, 8, 78, 78]] root
+INFO 2023-02-27 23:44:23,973 The extracted list are [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]] root
+INFO 2023-02-27 23:59:50,396 Just checking weather the logging code is working or not root
+INFO 2023-02-27 23:59:50,396 Now we have entered into the function which extracts the odd num from list root
+INFO 2023-02-27 23:59:50,396 Now we have entered into the function which extract the list from the given data root
+INFO 2023-02-27 23:59:50,396 The data which is passed by the user is [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}] root
+INFO 2023-02-27 23:59:50,396 The extracted list are [[23, 456, 67, 8, 78, 78]] root
+INFO 2023-02-27 23:59:50,396 The extracted list are [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]] root
+INFO 2023-02-27 23:59:50,396 Now we have the extracted list ('The extracted list from the list is ', [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]]) root
+ERROR 2023-02-27 23:59:50,396 not all arguments converted during string formatting root
+Traceback (most recent call last):
+  File "C:\Users\syed\PycharmProjects\Extracting_values_from_list_practise\anwers_for_the_questions.py", line 124, in extract_odd_list
+    if j%2!=0:
+TypeError: not all arguments converted during string formatting
+INFO 2023-02-28 00:05:24,826 Just checking weather the logging code is working or not root
+INFO 2023-02-28 00:05:24,827 Now we have entered into the function which extracts the odd num from list root
+INFO 2023-02-28 00:05:24,827 Now we have entered into the function which extract the list from the given data root
+INFO 2023-02-28 00:05:24,827 The data which is passed by the user is [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}] root
+INFO 2023-02-28 00:05:24,827 The extracted list are [[23, 456, 67, 8, 78, 78]] root
+INFO 2023-02-28 00:05:24,827 The extracted list are [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]] root
+INFO 2023-02-28 00:05:24,827 Now we have the extracted list ('The extracted list from the list is ', [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]]) root
+INFO 2023-02-28 00:07:05,147 Just checking weather the logging code is working or not root
+INFO 2023-02-28 00:09:20,674 Just checking weather the logging code is working or not root
+INFO 2023-02-28 00:09:20,674 Now we have entered into the function which extracts the odd num from list root
+INFO 2023-02-28 00:09:20,675 Now we have entered into the function which extract the list from the given data root
+INFO 2023-02-28 00:09:20,675 The data which is passed by the user is [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}] root
+INFO 2023-02-28 00:09:20,675 The extracted list are [[23, 456, 67, 8, 78, 78]] root
+INFO 2023-02-28 00:09:20,675 The extracted list are [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]] root
+INFO 2023-02-28 00:09:20,675 Now we have the extracted list ('The extracted list from the list is ', [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]]) root
+INFO 2023-02-28 00:12:15,332 Just checking weather the logging code is working or not root
+INFO 2023-02-28 00:12:15,333 extracting odd numbers from lists root
+INFO 2023-02-28 00:12:15,333 Now we have entered into the function which extract the list from the given data root
+INFO 2023-02-28 00:12:15,333 The data which is passed by the user is [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}] root
+INFO 2023-02-28 00:12:15,333 The extracted list are [[23, 456, 67, 8, 78, 78]] root
+INFO 2023-02-28 00:12:15,333 The extracted list are [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]] root
+INFO 2023-02-28 00:12:15,333 odd numbers [] root
+INFO 2023-02-28 00:23:22,906 Just checking weather the logging code is working or not root
+INFO 2023-02-28 00:23:22,906 Now we are entering inside the function which tkes out odd no root
+INFO 2023-02-28 00:23:22,906 The first odd nos are 3 root
+INFO 2023-02-28 00:23:22,906 The first odd nos are 5 root
+INFO 2023-02-28 00:23:22,906 The first odd nos are 7 root
+INFO 2023-02-28 00:23:22,907 The odd nos in the list is 23 root
+INFO 2023-02-28 00:23:22,907 The odd nos in the list is 67 root
+INFO 2023-02-28 00:23:22,907 The odd nos in the list is 345 root
+INFO 2023-02-28 00:23:22,907 The odd nos in the list is 87 root
+INFO 2023-02-28 00:23:22,907 The odd nos in the list is 9 root
+INFO 2023-02-28 00:23:22,907 The odd no from the tuples is 6657 root
+INFO 2023-02-28 00:27:25,287 Just checking weather the logging code is working or not root
+INFO 2023-02-28 00:27:25,287 Now we are entering inside the function which tkes out odd no root
+INFO 2023-02-28 00:27:25,287 The first odd nos are 3 root
+INFO 2023-02-28 00:27:25,287 The first odd nos are 5 root
+INFO 2023-02-28 00:27:25,288 The first odd nos are 7 root
+INFO 2023-02-28 00:27:25,288 The odd nos in the list is 23 root
+INFO 2023-02-28 00:27:25,288 The odd nos in the list is 67 root
+INFO 2023-02-28 00:27:25,288 The odd nos in the list is 345 root
+INFO 2023-02-28 00:27:25,288 The odd nos in the list is 87 root
+INFO 2023-02-28 00:27:25,288 The odd nos in the list is 9 root
+INFO 2023-02-28 00:27:25,288 The odd no from the tuples is 6657 root
+ERROR 2023-02-28 00:27:25,288 unsupported operand type(s) for %: 'list' and 'int' root
+Traceback (most recent call last):
+  File "C:\Users\syed\PycharmProjects\Extracting_values_from_list_practise\anwers_for_the_questions.py", line 180, in extrct_odd
+    if a%2!=0 or b%2!=0:
+TypeError: unsupported operand type(s) for %: 'list' and 'int'
+INFO 2023-02-28 00:28:03,383 Just checking weather the logging code is working or not root
+INFO 2023-02-28 00:28:03,383 Now we are entering inside the function which tkes out odd no root
+INFO 2023-02-28 00:28:03,383 The first odd nos are 3 root
+INFO 2023-02-28 00:28:03,383 The first odd nos are 5 root
+INFO 2023-02-28 00:28:03,384 The first odd nos are 7 root
+INFO 2023-02-28 00:28:03,384 The odd nos in the list is 23 root
+INFO 2023-02-28 00:28:03,384 The odd nos in the list is 67 root
+INFO 2023-02-28 00:28:03,384 The odd nos in the list is 345 root
+INFO 2023-02-28 00:28:03,384 The odd nos in the list is 87 root
+INFO 2023-02-28 00:28:03,384 The odd nos in the list is 9 root
+INFO 2023-02-28 00:28:03,384 The odd no from the tuples is 6657 root
+ERROR 2023-02-28 00:28:03,384 unsupported operand type(s) for %: 'list' and 'int' root
+Traceback (most recent call last):
+  File "C:\Users\syed\PycharmProjects\Extracting_values_from_list_practise\anwers_for_the_questions.py", line 180, in extrct_odd
+    if a%2!=0 or b%2!=0:
+TypeError: unsupported operand type(s) for %: 'list' and 'int'
+INFO 2023-02-28 00:28:46,091 Just checking weather the logging code is working or not root
+INFO 2023-02-28 00:28:46,091 Now we are entering inside the function which tkes out odd no root
+INFO 2023-02-28 00:28:46,091 The first odd nos are 3 root
+INFO 2023-02-28 00:28:46,092 The first odd nos are 5 root
+INFO 2023-02-28 00:28:46,092 The first odd nos are 7 root
+INFO 2023-02-28 00:28:46,092 The odd nos in the list is 23 root
+INFO 2023-02-28 00:28:46,092 The odd nos in the list is 67 root
+INFO 2023-02-28 00:28:46,092 The odd nos in the list is 345 root
+INFO 2023-02-28 00:28:46,092 The odd nos in the list is 87 root
+INFO 2023-02-28 00:28:46,092 The odd nos in the list is 9 root
+INFO 2023-02-28 00:28:46,092 The odd no from the tuples is 6657 root
+INFO 2023-02-28 21:25:44,865 Just checking weather the logging code is working or not root
+INFO 2023-02-28 21:25:44,868 The function will extract the string from the given list root
+INFO 2023-02-28 21:25:44,868 The data which is passed by the user is [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}] root
+INFO 2023-02-28 21:26:29,098 Just checking weather the logging code is working or not root
+INFO 2023-02-28 21:26:29,098 The function will extract the string from the given list root
+INFO 2023-02-28 21:26:29,098 The data which is passed by the user is [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}] root
+INFO 2023-02-28 21:27:35,219 Just checking weather the logging code is working or not root
+INFO 2023-02-28 21:27:35,219 The function will extract the string from the given list root
+INFO 2023-02-28 21:27:35,219 The data which is passed by the user is [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}] root
+INFO 2023-02-28 21:27:35,219 The extracted strings are ['key1', 'sudh'] root
+INFO 2023-02-28 21:27:35,219 The extracted strings are ['key1', 'sudh'] root
+INFO 2023-02-28 21:40:02,082 Just checking weather the logging code is working or not root
+INFO 2023-02-28 21:40:02,082 Number of occurrences of all data root
+ERROR 2023-02-28 21:40:02,082 unhashable type: 'list' root
+Traceback (most recent call last):
+  File "C:\Users\syed\PycharmProjects\Extracting_values_from_list_practise\anwers_for_the_questions.py", line 231, in occurrences_all
+    for i in set(q10_l):
+TypeError: unhashable type: 'list'
+INFO 2023-02-28 21:43:31,921 Just checking weather the logging code is working or not root
+INFO 2023-02-28 21:43:31,922 Number of occurrences of all data root
+ERROR 2023-02-28 21:43:31,922 unhashable type: 'list' root
+Traceback (most recent call last):
+  File "C:\Users\syed\PycharmProjects\Extracting_values_from_list_practise\anwers_for_the_questions.py", line 231, in occurrences_all
+    for i in set(q10_l):
+TypeError: unhashable type: 'list'
+INFO 2023-02-28 21:44:14,826 Just checking weather the logging code is working or not root
+INFO 2023-02-28 21:44:14,826 Number of occurrences of all data root
+ERROR 2023-02-28 21:44:14,826 unhashable type: 'list' root
+Traceback (most recent call last):
+  File "C:\Users\syed\PycharmProjects\Extracting_values_from_list_practise\anwers_for_the_questions.py", line 231, in occurrences_all
+    for i in set(q10_l):
+TypeError: unhashable type: 'list'
+INFO 2023-02-28 21:44:35,677 Just checking weather the logging code is working or not root
+INFO 2023-02-28 21:44:35,677 Number of occurrences of all data root
+ERROR 2023-02-28 21:44:35,677 unhashable type: 'list' root
+Traceback (most recent call last):
+  File "C:\Users\syed\PycharmProjects\Extracting_values_from_list_practise\anwers_for_the_questions.py", line 231, in occurrences_all
+    for i in set(q10_l):
+TypeError: unhashable type: 'list'
+INFO 2023-02-28 21:49:38,455 Just checking weather the logging code is working or not root
+INFO 2023-02-28 21:49:38,455 Number of occurrences of all data root
+ERROR 2023-02-28 21:49:38,456 'dict' object has no attribute 'append' root
+Traceback (most recent call last):
+  File "C:\Users\syed\PycharmProjects\Extracting_values_from_list_practise\anwers_for_the_questions.py", line 229, in occurrences_all
+    q10.append(i)
+AttributeError: 'dict' object has no attribute 'append'
+INFO 2023-02-28 21:51:35,374 Just checking weather the logging code is working or not root
+INFO 2023-02-28 21:51:35,374 Number of occurrences of all data root
+INFO 2023-02-28 21:54:14,921 Just checking weather the logging code is working or not root
+INFO 2023-02-28 21:54:14,922 Number of occurrences of all data root
+ERROR 2023-02-28 21:54:14,922 unhashable type: 'list' root
+Traceback (most recent call last):
+  File "C:\Users\syed\PycharmProjects\Extracting_values_from_list_practise\anwers_for_the_questions.py", line 230, in occurrences_all
+    for i in set(q10):
+TypeError: unhashable type: 'list'
+INFO 2023-02-28 22:05:03,721 Just checking weather the logging code is working or not root
+INFO 2023-02-28 22:05:03,722 Now we have entered such function which extracts only the numeric from list root
+INFO 2023-02-28 22:05:03,722 The data which is entered by the user is [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}] root
+INFO 2023-02-28 22:08:28,471 Just checking weather the logging code is working or not root
+INFO 2023-02-28 22:08:28,471 Now we have entered such function which extracts only the numeric from list root
+INFO 2023-02-28 22:08:28,471 The data which is entered by the user is [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}] root
+INFO 2023-02-28 22:09:13,231 Just checking weather the logging code is working or not root
+INFO 2023-02-28 22:09:13,231 Now we have entered such function which extracts only the numeric from list root
+INFO 2023-02-28 22:09:13,231 The data which is entered by the user is [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}] root
+INFO 2023-02-28 22:09:13,232 The extracted numeric values are [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234] root
+INFO 2023-02-28 22:19:45,991 Just checking weather the logging code is working or not root
+INFO 2023-02-28 22:21:31,865 Just checking weather the logging code is working or not root
+INFO 2023-02-28 22:21:31,866 Now we have entered into the function which calculates the sum of numbers root
+INFO 2023-02-28 22:21:31,866 Now we have entered such function which extracts only the numeric from list root
+INFO 2023-02-28 22:21:31,866 The data which is entered by the user is [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}] root
+INFO 2023-02-28 22:21:31,866 The extracted numeric values are [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234] root
+INFO 2023-02-28 22:28:47,092 Just checking weather the logging code is working or not root
+INFO 2023-02-28 22:28:47,092 Now we have entered into the function which clculate the sum of the numeric root
+INFO 2023-02-28 22:28:47,092 Now we have entered such function which extracts only the numeric from list root
+INFO 2023-02-28 22:28:47,092 The data which is entered by the user is [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}] root
+INFO 2023-02-28 22:28:47,093 The extracted numeric values are [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234] root
+INFO 2023-02-28 22:28:47,093 This we need to check [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234] root
+INFO 2023-02-28 22:29:37,902 Just checking weather the logging code is working or not root
+INFO 2023-02-28 22:29:37,903 Now we have entered into the function which clculate the sum of the numeric root
+INFO 2023-02-28 22:29:37,903 Now we have entered such function which extracts only the numeric from list root
+INFO 2023-02-28 22:29:37,903 The data which is entered by the user is [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}] root
+INFO 2023-02-28 22:29:37,903 The extracted numeric values are [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234] root
+INFO 2023-02-28 22:29:37,903 This we need to check [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234] root
+INFO 2023-02-28 22:30:20,458 Just checking weather the logging code is working or not root
+INFO 2023-02-28 22:30:20,458 Now we have entered into the function which clculate the sum of the numeric root
+INFO 2023-02-28 22:30:20,458 Now we have entered such function which extracts only the numeric from list root
+INFO 2023-02-28 22:30:20,458 The data which is entered by the user is [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}] root
+INFO 2023-02-28 22:30:20,459 The extracted numeric values are [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234] root
+INFO 2023-02-28 22:30:20,459 This we need to check [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234] root
+INFO 2023-02-28 22:30:40,857 Just checking weather the logging code is working or not root
+INFO 2023-02-28 22:30:40,857 Now we have entered into the function which clculate the sum of the numeric root
+INFO 2023-02-28 22:30:40,858 Now we have entered such function which extracts only the numeric from list root
+INFO 2023-02-28 22:30:40,858 The data which is entered by the user is [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}] root
+INFO 2023-02-28 22:30:40,858 The extracted numeric values are [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234] root
+INFO 2023-02-28 22:30:40,858 This we need to check [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234] root
+INFO 2023-02-28 22:30:59,942 Just checking weather the logging code is working or not root
+INFO 2023-02-28 22:30:59,943 Now we have entered into the function which clculate the sum of the numeric root
+INFO 2023-02-28 22:30:59,943 Now we have entered such function which extracts only the numeric from list root
+INFO 2023-02-28 22:30:59,943 The data which is entered by the user is [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}] root
+INFO 2023-02-28 22:30:59,943 The extracted numeric values are [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234] root
+INFO 2023-02-28 22:30:59,943 This we need to check [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234] root
+INFO 2023-02-28 22:32:16,396 Just checking weather the logging code is working or not root
+INFO 2023-02-28 22:32:16,396 Now we have entered into the function which clculate the sum of the numeric root
+INFO 2023-02-28 22:32:16,396 Now we have entered such function which extracts only the numeric from list root
+INFO 2023-02-28 22:32:16,396 The data which is entered by the user is [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}] root
+INFO 2023-02-28 22:32:16,396 The extracted numeric values are [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234] root
+INFO 2023-02-28 22:32:16,397 This we need to check [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234] root
+INFO 2023-02-28 22:32:16,397 The sum is 8444 root
+INFO 2023-02-28 22:37:46,699 Just checking weather the logging code is working or not root
+INFO 2023-02-28 22:37:46,699 This function reverse the list root
+INFO 2023-02-28 22:37:46,699 The data entered by the user is [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}] root
+INFO 2023-02-28 22:37:46,699 The revered pattern is [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3] root
